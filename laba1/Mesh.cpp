@@ -128,4 +128,5 @@ void Mesh::draw()
 
 	glDisableClientState(GL_NORMAL_ARRAY);
 	glDisableClientState(GL_TEXTURE_COORD_ARRAY);
-	glDisableClientState(GL_VERTEX_
+	glDisableClientState(GL_VERTEX_ARRAY);
+}
