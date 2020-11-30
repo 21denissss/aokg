@@ -1,0 +1,21 @@
+﻿  Camera.cpp
+  data.cpp
+  display.cpp
+D:\Data\c++\aokg\1\laba1\laba1\display.cpp(26,13): warning C4244: инициализация: преобразование "LONGLONG" в "float", возможна потеря данных
+D:\Data\c++\aokg\1\laba1\laba1\display.cpp(45,33): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  GameObject.cpp
+  GameObjectFactory.cpp
+  GraphicObject.cpp
+D:\Data\c++\aokg\1\laba1\laba1\GraphicObject.cpp(69,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Light.cpp
+  main.cpp
+D:\Data\c++\aokg\1\laba1\laba1\main.cpp(30,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Data\c++\aokg\1\laba1\laba1\main.cpp(34,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Mesh.cpp
+D:\Data\c++\aokg\1\laba1\laba1\Mesh.cpp(119,78): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  PhongMaterial.cpp
+  simulation.cpp
+D:\Data\c++\aokg\1\laba1\laba1\simulation.cpp(11,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Data\c++\aokg\1\laba1\laba1\simulation.cpp(43,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  laba1.vcxproj -> D:\Data\c++\aokg\1\laba1\x64\Debug\laba1.exe
